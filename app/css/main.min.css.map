@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAEA,KACC,MAAA,KAEA,WACC,MAAA,IAIF,KACC,iBAAA,IACA,YAAA","file":"main.min.css","sourcesContent":["@import \"second\";\n\n.red {\n\tcolor: #000;\n\n\t&__item {\n\t\tcolor: red;\n\t}\n}\n\nbody {\n\tbackground-color: red;\n\tfont-family: 'Roboto';\n}\n\n\n// @import \"fonts\";"]}
